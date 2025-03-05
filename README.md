@@ -1,5 +1,7 @@
 # YCB URDFs
 
+link to objects :http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/ download laser scan 16k
+
 This repository contains the YCB object models as URDF files, for use in simulation environments.
 
 <img src="assets/ycb_objects.png" width="750">
